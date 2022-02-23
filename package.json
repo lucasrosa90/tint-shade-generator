@@ -1,0 +1,14 @@
+{
+  "name": "tint-shade-generator",
+  "version": "0.0.1",
+  "description": "Tint/Shade Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Rosa <root@lucasrosa.dev>",
+  "license": "ISC",
+  "dependencies": {
+    "parse-color": "^1.0.0"
+  }
+}
